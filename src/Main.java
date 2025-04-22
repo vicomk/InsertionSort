@@ -18,6 +18,7 @@ public class Main {
         printArray(array);
     }
 
+    //Method to print an Array
     public static void printArray(int[] array) {
         System.out.print("[");
         for (int i = 0; i < array.length; i++) {
